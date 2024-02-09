@@ -1,4 +1,4 @@
-# powerbi_projects
+# Hospitality_project
 🏨 Unlocking Insights: A Deep Dive into Atliq Grand Hotel Chain's Data Analysis 📊
 
 Hello LinkedIn Community,
