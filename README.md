@@ -4,7 +4,7 @@
 Hello LinkedIn Community,
 I'm thrilled to share the exciting journey of my recent data analysis project, where I delved into the intricacies of a Atliq Grand hotel chain's data🛢. This venture was aimed at unraveling insights 👀 and refining processes.
 
-Objectives 🎯
+## Objectives 🎯
 
 ✅ Revenue Optimization 📶: Identify opportunities for revenue growth 🚀 by analyzing booking patterns and pricing strategies.
 
@@ -14,7 +14,7 @@ Objectives 🎯
 
 ✅ Guest Satisfaction Analysis 👥: Uncover patterns in guest ratings ⭐ to enhance overall satisfaction.
 
-Process ⚙️:
+## Process ⚙️:
 
 ✅ Data Cleaning and Preparation ♻️: Ensured data accuracy by addressing missing values and inconsistencies. Added new columns as per need.
 
@@ -24,7 +24,7 @@ Process ⚙️:
 
 ✅ Recommendation Generation 💡: Derived actionable recommendations for enhancing guest experience, optimizing revenue, and improving operational efficiency.
 
-Learnings 💻:
+## Learnings 💻:
 
 ✅ Industry Key terms and Metrics
 
@@ -33,3 +33,11 @@ Learnings 💻:
 ✅ Operational Streamlining is Essential
 
 ✅ Continuous Monitoring is Key
+
+## Output
+
+![hospitality](https://github.com/Pawan-Paul/powerbi_projects/assets/144881105/b81dddaa-12ec-430c-9941-c60e6c36ee7c)
+
+https://github.com/Pawan-Paul/powerbi_projects/assets/144881105/54393e2d-93d0-43c4-ab2b-b3e1375ebe39
+
+
