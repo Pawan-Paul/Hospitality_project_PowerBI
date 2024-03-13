@@ -1,7 +1,7 @@
 # Hospitality_project
 🏨 Unlocking Insights: A Deep Dive into Atliq Grand Hotel Chain's Data Analysis 📊
 
-Hello LinkedIn Community,
+Hello Github Community,
 I'm thrilled to share the exciting journey of my recent data analysis project, where I delved into the intricacies of a Atliq Grand hotel chain's data🛢. This venture was aimed at unraveling insights 👀 and refining processes.
 
 ## Objectives 🎯
